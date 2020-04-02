@@ -21,6 +21,7 @@ body{
 }
 
 #history{
+    height: 20px;
     text-align: right;
     margin: 2px;
     padding: 5px;
